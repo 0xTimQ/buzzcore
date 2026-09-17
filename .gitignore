@@ -1,0 +1,5 @@
+node_modules/
+output/
+work/
+assets/soundtrack.m4a
+.DS_Store

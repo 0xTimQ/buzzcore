@@ -1,0 +1,12 @@
+{
+  "name": "buzzcore-syndicate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "render": "node render.cjs",
+    "stills": "node render.cjs --stills"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}
